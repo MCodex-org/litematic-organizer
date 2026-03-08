@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Litematic Organizer",
+  "version": "1.0",
+  "description": "Browser extension to organize schematic files by MCodex.org",
+  "homepage_url": "https://mcodex.org",
+  "icons": {
+    "256": "icon.png"
+  },
+  "permissions": ["downloads"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
