@@ -2,6 +2,8 @@
 
 ![Demo](screenshots/demo.gif)
 
+### Note that this extension is for chromium browsers only. If you are looking for a version that works on firefox and related browsers (Zen, Librewolf, etc...) [click here](https://github.com/emerald0s/Litematica-File-Organizer)
+
 A simple Chrome extension that automatically organizes `.litematic` files into a **schematics folder inside Downloads**.
 
 When a `.litematic` file is downloaded, the extension moves it to:
